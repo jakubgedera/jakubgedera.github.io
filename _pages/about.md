@@ -4,8 +4,8 @@ title: "About"
 ---
 
 I am software engineer at <a href="https://essential-data.sk" data-toggle="tooltip">Essential Data</a>. 
-Improved the quality of Slovak Jurisdiction on project <a href="https://www.slov-lex.sk/domov" data-toggle="tooltip">Slov-Lex</a>.
 Currently working on project for <a href="https://www.zvjs.sk/sk" data-toggle="tooltip">Prison and Court Guard Service</a>.
+Previously improving the quality of Slovak Jurisdiction on project <a href="https://www.slov-lex.sk/domov" data-toggle="tooltip">Slov-Lex</a>.
 
 <h2>Employment History</h2>
 
@@ -17,14 +17,17 @@ Currently working on project for <a href="https://www.zvjs.sk/sk" data-toggle="t
     </tr>
     <tr>
       <td></td>
-      <td><i>ZVJS (June 2024 - Present)</i></td>
+      <td><i>ZVJS 2 (June 2024 - Present)</i></td>
     </tr>
     <tr>
         <td></td>
         <td>
             <ul>
-              <li>Working on project for Prison and Court Guard Service.</li>
-              <li>Team leader.</li>
+              <li>Working on a project for Prison and Court Guard Service.</li>
+              <li>Responsible for system architecture.</li>
+              <li>Preparing tasks for development based on client's requirements, implementing 
+new features.</li>
+              <li>Team leader of the project.</li>
             </ul>
         </td>
     </tr>
@@ -36,9 +39,9 @@ Currently working on project for <a href="https://www.zvjs.sk/sk" data-toggle="t
         <td></td>
         <td>
             <ul>
-              <li>Improved the quality of Slovak Jurisdiction on project Slov-Lex</li>
-              <li>Implemented new features, improved performance and redesign of portal</li>
-              <li>Worked in team of 10+ people</li>
+              <li>Improved the quality of Slovak Jurisdiction on the project Slov-Lex</li>
+              <li>Implemented new features, improved the performance and redesign of the portal</li>
+              <li>Worked in a team of 10+ people</li>
               <li>Internal leader</li>
             </ul>
         </td>
@@ -51,11 +54,11 @@ Currently working on project for <a href="https://www.zvjs.sk/sk" data-toggle="t
         <td></td>
         <td>
             <ul>
-              <li>Developed bank application in Java and Angular</li>
-              <li>Improved loan application process by designing and implementing requirements of client</li>
-              <li>Worked in agile team consisting of 8 - 10 people</li>
-              <li>Worked with customer to solve user issues in production in an efficient, timely manner</li>
-              <li>Led and supervised junior colleague</li>
+                <li>Developed a bank application in Java and Angular</li>
+                <li>Improved loan application process by designing and implementing client requirements</li>
+                <li>Worked in an agile team consisting of 8-10 people</li>
+                <li>Worked with the customer to solve user issues in production in an efficient, timely manner</li>
+                <li>Led and supervised a junior colleague</li>
             </ul>
         </td>
     </tr>
@@ -67,8 +70,8 @@ Currently working on project for <a href="https://www.zvjs.sk/sk" data-toggle="t
         <td></td>
         <td>
             <ul>
-            <li>Worked as collaborator with senior developer</li>
-            <li>Built software in Java Oracle BPM studio</li>
+                <li>Worked as a collaborator with a senior developer</li>
+                <li>Built software using Java Oracle BPM Studio</li>
             </ul>
         </td>
     </tr>
@@ -82,10 +85,11 @@ Currently working on project for <a href="https://www.zvjs.sk/sk" data-toggle="t
 * MSc. in the field of information systems
 
 <h2>Skills</h2>
-* Java 17, <a href="https://www.credly.com/badges/de512caa-a5b2-4313-8295-4af460a2b14f/public_url" data-toggle="tooltip">Spring Boot</a>
+* Java 17, <a href="https://www.credly.com/badges/de512caa-a5b2-4313-8295-4af460a2b14f/public_url" data-toggle="tooltip">Spring Boot</a> (certified)
 * TypeScript (Angular, React)
-* SQL, Camunda BPM, Keycloak
-* Certified <a href="https://bcert.me/sfanzgtds" data-toggle="tooltip">Scrum Master (CSM)</a>, from Scrum Alliance
+* IntelliJ IDEA, JetBrains AI Assistant, Docker, Git
+* SQL, Camunda BPM, Keycloak, RabbitMQ, OpenAPI
+* Jira, GitLab, Certified <a href="https://bcert.me/sfanzgtds" data-toggle="tooltip">Scrum Master (CSM)</a>, from Scrum Alliance
 
 <h2>Hobbies</h2>
 * Crossfit
