@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am software engineer at <a href="https://essential-data.sk" data-toggle="tooltip">Essential Data</a>. 
+I am a Lead Software Engineer at <a href="https://essential-data.sk" data-toggle="tooltip">Essential Data</a>, where I lead a team of developers and drive AI initiatives across the company. 
 Currently working on project for <a href="https://www.zvjs.sk/sk" data-toggle="tooltip">Prison and Court Guard Service</a>.
 Previously improving the quality of Slovak Jurisdiction on project <a href="https://www.slov-lex.sk/domov" data-toggle="tooltip">Slov-Lex</a>.
 
@@ -13,7 +13,23 @@ Previously improving the quality of Slovak Jurisdiction on project <a href="http
   <tbody>
     <tr>
       <td>November 2022 - Present</td>
-      <td><b>Full-Stack Developer (Team Leader)/Essential Data</b></td>
+      <td><b>Lead Software Engineer/Essential Data</b></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><i>Team Lead & AI Initiatives (November 2025 - Present)</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <ul>
+              <li>Leading a team of developers - task planning, mentoring and technical guidance.</li>
+              <li>Driving AI initiatives across the company and introducing AI tools into everyday development and business processes.</li>
+              <li>Preparing and delivering AI trainings for employees.</li>
+              <li>Creating internal guidelines and policies for safe and effective use of AI.</li>
+              <li>Administration of Claude for the company.</li>
+            </ul>
+        </td>
     </tr>
     <tr>
       <td></td>
@@ -33,7 +49,7 @@ new features.</li>
     </tr>
     <tr>
       <td></td>
-      <td><i>Slov-Lex (November 2022 - May 2024)</i></td>
+      <td><i>Slov-Lex (November 2022 - May 2024) - Full-Stack Developer</i></td>
     </tr>
     <tr>
         <td></td>
@@ -85,11 +101,13 @@ new features.</li>
 * MSc. in the field of information systems
 
 <h2>Skills</h2>
-* Java 17, <a href="https://www.credly.com/badges/de512caa-a5b2-4313-8295-4af460a2b14f/public_url" data-toggle="tooltip">Spring Boot</a> (certified)
+* Java 17/21, <a href="https://www.credly.com/badges/de512caa-a5b2-4313-8295-4af460a2b14f/public_url" data-toggle="tooltip">Spring Boot</a> (certified)
 * TypeScript (Angular, React)
-* IntelliJ IDEA, JetBrains AI Assistant, Docker, Git
 * SQL, Camunda BPM, Keycloak, RabbitMQ, OpenAPI
-* Jira, GitLab, Certified <a href="https://bcert.me/sfanzgtds" data-toggle="tooltip">Scrum Master (CSM)</a>, from Scrum Alliance
+* System architecture, requirements analysis, team leadership
+* AI-assisted development: Claude Code (custom skills, plugins, MCP integrations), JetBrains AI Assistant
+* IntelliJ IDEA, Docker, Git
+* Jira, Confluence, GitLab, Certified <a href="https://bcert.me/sfanzgtds" data-toggle="tooltip">Scrum Master (CSM)</a>, from Scrum Alliance
 
 <h2>Hobbies</h2>
 * Crossfit

@@ -1,0 +1,17 @@
+# Local development server: docker compose up -> http://localhost:4000
+services:
+  jekyll:
+    image: ruby:2.7
+    working_dir: /site
+    # Ruby 2.7: github-pages pins Jekyll 3.9, which breaks on Ruby 3+.
+    # Bundler 2.4 respects required_ruby_version when resolving (the bundled 2.1 does not).
+    command: sh -c "gem install bundler:2.4.22 --conservative && bundle install &&bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling"
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/site
+      - bundle:/usr/local/bundle
+
+volumes:
+  bundle:
